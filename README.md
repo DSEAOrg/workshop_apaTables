@@ -8,7 +8,7 @@
 
 ## References
 
-- American Psychological Association. (2019). Publication Manual of the American Psychological Association, (2020).
+- Seventh Edition Committee. (2019). Publication Manual of the American Psychological Association.
 
 - The apaTables tutorial: https://dstanley4.github.io/apaTables/articles/apaTables.html
 
