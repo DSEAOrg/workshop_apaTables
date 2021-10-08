@@ -6,6 +6,8 @@
 
 **RSVP**: http://bit.ly/dsea1008
 
+**Facilitator**: Zhuqian (Karen) Zhou (zz2404@tc.columbia.edu)
+
 ## References
 
 - Seventh Edition Committee. (2019). Publication Manual of the American Psychological Association.
