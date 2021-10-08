@@ -8,6 +8,8 @@
 
 ## References
 
+- American Psychological Association. (2019). Publication Manual of the American Psychological Association, (2020).
+
 - The apaTables tutorial: https://dstanley4.github.io/apaTables/articles/apaTables.html
 
 - The stable version of the apaTables R package on the CRAN (the Comprehensive R Archive Network): https://cran.r-project.org/web/packages/apaTables/index.html
